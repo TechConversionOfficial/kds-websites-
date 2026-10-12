@@ -2,19 +2,29 @@
 
 **KDS Security is a Panchkula-based provider of electronic security, surveillance and automation solutions. Its website, [kdsservice.com](https://kdsservice.com/), presents CCTV systems, access control, video door phones, smart-home automation and related installation services for homes and businesses. [Tech Conversion](https://techconversion.tech/) features KDS in its website portfolio as a technology-led security and automation project.**
 
-![KDS Security illustrative smart surveillance and automation project cover](images/kds-security-smart-surveillance-concept.webp)
+<p align="center">
+  <a href="https://techconversion.tech/api/media/portfolio/kds-website-mockup.webp">
+    <img src="https://techconversion.tech/api/media/portfolio/kds-website-mockup.webp" alt="KDS Security website mockup by Tech Conversion" width="100%" />
+  </a>
+</p>
 
-*Portfolio illustration newly prepared to accompany this project record. This is not an original screenshot of the live website.*
+<p align="center">
+  <a href="https://kdsservice.com/"><strong>Live website</strong></a>
+  &nbsp;·&nbsp;
+  <a href="https://techconversion.tech/portfolio"><strong>Tech Conversion portfolio</strong></a>
+  &nbsp;·&nbsp;
+  <a href="https://techconversion.tech/api/media/before-after/kds-new-website-home-page.webp"><strong>Full-page website screenshot</strong></a>
+</p>
 
 | | |
 |---|---|
 | **Client** | KDS Security / KDS Security Services |
 | **Website** | [kdsservice.com](https://kdsservice.com/) |
 | **Industry** | Electronic security, surveillance and integrated automation |
-| **Location** | Panchkula, Haryana, India (address on the client website) |
+| **Location** | Panchkula, Haryana, India |
 | **Portfolio credit** | [Tech Conversion](https://techconversion.tech/) |
 | **Project type** | Security services and automation website |
-| **Public project listing** | [Tech Conversion portfolio](https://techconversion.tech/) and [case studies gallery](https://techconversion.tech/case-studies/) |
+| **Public project listing** | [Tech Conversion portfolio](https://techconversion.tech/portfolio) and [case studies gallery](https://techconversion.tech/case-studies/) |
 | **Website technologies** | Not independently established |
 
 ## About KDS Security
@@ -53,27 +63,39 @@ This section describes the **business communication challenge** evidenced by the
 
 These points describe the **currently published website**, not a complete internal record of design, coding, testing or deployment tasks performed by Tech Conversion.
 
-## Project Images and Design Presentation
+## Website and Project Images
 
-**Important image provenance:** These are **new illustrative portfolio visuals**, made to explain the type of website KDS operates. They are not archived originals, live website screenshots, a documented redesign, or evidence of the actual desktop/mobile implementation. The responsive collage and the three detail images below derive from the same illustrative composition. No client-authorised original KDS production screenshots were available among the project images reviewed.
+### Official Website Mockup
 
-### Responsive website concept
+The following Tech Conversion portfolio mockup presents the delivered KDS Security website as a polished security and automation project.
 
-![KDS Security desktop and mobile website design presentation concept](images/kds-security-responsive-website-concept.webp)
+<p align="center">
+  <a href="https://techconversion.tech/api/media/portfolio/kds-website-mockup.webp">
+    <img src="https://techconversion.tech/api/media/portfolio/kds-website-mockup.webp" alt="KDS Security responsive website portfolio mockup" width="100%" />
+  </a>
+</p>
 
-### Service organisation
+*Click the image to open the full-resolution mockup.*
 
-![KDS Security surveillance biometric access control smart home automation and video intercom service cards concept](images/kds-security-service-cards-concept.webp)
+### Full-Length Website Screenshot
 
-### Mobile browsing presentation
+The following image is the complete published homepage capture supplied through Tech Conversion's project media.
 
-![KDS Security mobile website layout concept](images/kds-security-mobile-layout-concept.webp)
+<p align="center">
+  <a href="https://techconversion.tech/api/media/before-after/kds-new-website-home-page.webp">
+    <img src="https://techconversion.tech/api/media/before-after/kds-new-website-home-page.webp" alt="KDS Security complete website homepage screenshot" width="100%" />
+  </a>
+</p>
 
-### Industry use cases
+<p align="center">
+  <strong>Click the screenshot to open the full-resolution image.</strong>
+</p>
 
-![KDS Security residential commercial gated community industrial and fire alarm sector concept](images/kds-security-industries-concept.webp)
+### Image Provenance
 
-The visual concepts use a restrained navy-and-teal palette and representative security equipment to convey service hierarchy. Their interface details are illustrative; they must not be cited as production features or client-approved designs.
+The website mockup and full-page screenshot above are embedded from Tech Conversion's public project-media endpoints. They document the KDS Security project visually and replace the earlier README's illustrative local `images/...` concepts.
+
+These assets are **not evidence of measured increases in enquiries, leads, traffic, search rankings, performance scores or revenue**. Because they are externally hosted, GitHub rendering depends on the Tech Conversion URLs remaining publicly accessible. For a fully self-contained repository, client-approved copies can later be stored in an `images/` directory and referenced using relative paths.
 
 ## Key Visitor Journeys
 
@@ -100,7 +122,9 @@ The following are useful references when reviewing a security-services website. 
 
 ## Before and After
 
-A date-verified before-and-after set of KDS website screenshots was not available for this README. The concept art above **does not** represent an authenticated old-versus-new comparison. The portfolio listing establishes the project relationship; it does not establish an independently measured redesign improvement.
+A full-page screenshot of the delivered KDS Security website is available and included above. However, **no authenticated BEFORE screenshot or dated old-versus-new comparison was supplied for this project**, so this README does not create a historical redesign comparison.
+
+Other documented website transformations can be explored at [Tech Conversion's before-and-after gallery](https://techconversion.tech/before-after).
 
 ## Results
 
@@ -112,8 +136,18 @@ Figures and outcome claims appearing on the client's website or in a generic por
 
 [Tech Conversion](https://techconversion.tech/) is a Chennai-based web development and digital marketing business serving clients in India and internationally. Its public portfolio includes B2B, ecommerce, education and local-services websites.
 
-- **Website:** https://techconversion.tech/
-- **Portfolio:** https://techconversion.tech/portfolio
+- **Website:** [techconversion.tech](https://techconversion.tech/)
+- **Portfolio:** [techconversion.tech/portfolio](https://techconversion.tech/portfolio)
+- **Case studies:** [techconversion.tech/case-studies](https://techconversion.tech/case-studies)
+- **Before & after:** [techconversion.tech/before-after](https://techconversion.tech/before-after)
 - **Contact:** [contact@techconversion.tech](mailto:contact@techconversion.tech)
 
-This repository is a **public project presentation**, not a distribution of the client's private source code, server details, CCTV feeds, security-system credentials, network information, visitor logs or personal data. Client trademarks and site materials remain with their respective rights holders.
+## Repository Scope and Image Credits
+
+This repository is a **public project presentation**, not a distribution of the client's private source code, server details, CCTV feeds, security-system credentials, network information, visitor logs or personal data.
+
+The website mockup and full-page screenshot are sourced from Tech Conversion's public project media. Client trademarks, logos and site materials remain with their respective rights holders.
+
+---
+
+*Website project showcased by [Tech Conversion](https://techconversion.tech/).*
